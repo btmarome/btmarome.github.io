@@ -12,17 +12,20 @@ main:
   - title: "Home"
     url: /
 
-  - title: "About"
-    url: /about/
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Presentations"
+    url: /presentations/
 
   - title: "CV"
     url: /cv/
 
-  - title: "Publications and Presentations"
-    url: /publications/
-
   - title: "Thinking PhD?"
-    url: /markdown/
+    url: /thinking-phd/
   
   # Optional: Uncomment when ready
   # - title: "Talks"
