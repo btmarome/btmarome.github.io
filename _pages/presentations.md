@@ -5,26 +5,12 @@ permalink: /presentations/
 author_profile: true
 ---
 
-A selection of presentations and posters from conferences and research talks.
+## Conference Posters
 
-## 2024 • Cognitive Science Society
+Shelat, S., **Marome, B.**, Giesbrecht, B., & Schooler, J. W. (2024, May). *_Mind-wandering during encoding impairs recognition for both forgettable and memorable complex scenes*. Poster presented at the Annual Meeting of the Vision Sciences Society.
 
-**Imagery, Awareness, and Verbal Encoding in Memory Tasks**  
-Poster presentation at the Annual Meeting of the Cognitive Science Society.  
-[View Poster PDF](#)
+**Marome, B.**, Shelat, S., & Schooler, J. W. (2024, May). *Phenomenology of thought during memory encoding for verbal and visual material*. Poster presented at the Undergraduate Research and Creative Activities Colloquium, University of California, Santa Barbara.  
+  - [View Poster (PDF)](/files/URCA_poster.pdf)
 
----
-
-## 2023 • UCSB Undergraduate Research Colloquium
-
-**How We Think While Learning: A Study on Thought Qualities and Memory**  
-Talk presented at UCSB.  
-[Slides](#)
-
----
-
-## 2022 • SAGE Research Symposium
-
-**Phenomenology of Memory Encoding**  
-Poster presented at the SAGE Center Symposium.  
-[Abstract](#)
+**Marome, B.**, Schniepp, J., Peters, R., Holstein, S., Suryavanshi, S., & Woods, V. (2023, June). *Subconscious coaching influences on athletic intrinsic factors*. Poster presented at the Psychology 120L: Advanced Research Methods poster session, University of California, Santa Barbara.  
+  - Awarded Best Poster
