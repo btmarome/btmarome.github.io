@@ -31,11 +31,11 @@ redirect_from:
 
 ## Presentations
 
-See [presentations](/presentations/)
+See [Presentations](/presentations/)
 
 ## Publications
 
-See [publications](/publications/)
+See [Publications](/publications/)
 
 ## Honors & Awards
 
@@ -52,7 +52,7 @@ See [publications](/publications/)
 * Programming: Python, JavaScript (jsPsych), HTML/CSS, C++
 * Data collection: EEG (Brain Vision), fMRI, eye-tracking (EyeLink 1000 Plus), Qualtrics
 * Data Analysis: R, MATLAB
-* Writing: Grant writing, Pre-registration
+* Writing: Grant writing, pre-registration
 
 ## Service and Leadership
 
