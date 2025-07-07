@@ -1,12 +1,5 @@
 ---
 layout: single
-title: "Projects"
-permalink: /projects/
-author_profile: true
----
-
----
-layout: single
 title: "Research Projects"
 permalink: /projects/
 author_profile: true
@@ -25,14 +18,22 @@ Evaluating ongoing thoughts during behavioral tasks can offer valuable insight i
 
 ## Memory, Emotion, Thought, and Awareness (META) Lab — UCSB  
 
-Investigating the phenomenology of thought during memory encoding, with a focus on mind-wandering, image memorability, and recognition accuracy. Current projects use experience sampling and behavioral testing to understand how internal experience influences memory performance.
+In the META Lab, we study how fluctuations in conscious experience influence cognitive performance. My work has focused on the role of mind-wandering and internal distraction during memory encoding, particularly in relation to stimulus memorability. Using experience sampling, behavioral experiments, and recognition testing, we aim to understand how internal cognitive states interact with perceptual properties of stimuli to shape long-term memory outcomes. This research sits at the intersection of meta-awareness, attention, and memory.
+
+![Experiment flowchart](/images/META_plot.png)
+*Phases of the procedure for Experiment 1 from a manuscript I contributed to. Participants completed a study phase where they encoded 24 complex visual scenes. Then, after a digit span distractor task, they completed a recognition memory test.*
 
 ## Perception, Cognition, and Action (PCA) Lab — UCSB  
 
-Exploring how visual working memory uncertainty is represented and reported using eye-tracking, behavioral measures, and EEG. Projects in this lab focus on spatial memory and moment-to-moment fluctuations in confidence and precision.
+Research in the PCA Lab centers on spatial working memory and the neural mechanisms supporting uncertainty representation. I’ve contributed to a series of studies exploring how people encode, maintain, and report imprecise memories for visual locations. These studies incorporate eye-tracking, EEG, and psychophysical methods to investigate moment-to-moment fluctuations in confidence and memory precision. I contributed to multiple projects aimed to understand how visual uncertainty is represented and used when people make decisions about what they remember.
+
+![Experiment flowchart](/images/PCA_plot.png)
+*Example task design from [Li and Sprague (2023).](/files/Li_and_Sprague_2023.pdf)*
 
 ## Attention Lab — UCSB  
 
-Projects in this lab examined value-driven attention and distractor timing across virtual and augmented reality environments. Employed EEG and behavioral analysis to understand how attentional capture operates under different sensory contexts.
+The Attention Lab focuses on the dynamics of value-driven attentional capture and cognitive control in complex environments. I contributed to experiments examining how distractor timing and reward learning shape attention in virtual and augmented reality settings. These studies use EEG and behavioral data to assess how motivational salience and environmental context influence attentional filtering. We are especially interested in how attention operates when faced with conflicting or highly distracting information — a key issue in real-world cognition.
 
+![Experiment flowchart](/images/Attention_plot.png)
+*Example plot from [Milner et al. (2022).](/files/2023_Milner_EtAl.pdf)*
 
