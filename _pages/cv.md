@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-======
+
 * **Ph.D., Psychology**, University of Chicago — *Expected 2030*  
   Focus: Computational Cognitive Neuroscience
 
@@ -19,7 +19,7 @@ redirect_from:
   GPA: 3.88  
 
 ## Research Experience
-======
+
 * **Research Assistant**, Perception, Cognition, and Action (PCA) Lab, UCSB — *Jan. 2024–Dec. 2024*  
   Mentor: Dr. Tommy Sprague  
 
@@ -37,24 +37,24 @@ redirect_from:
 * **Student Researcher**, Psychology 10A: Research Methods — *Fall 2022*
 
 ## Teaching & Mentorship
-======
+
 * **Mentor** — *Jun. 2024–Present*  
   Mentored undergraduate research assistants in EEG, eye-tracking, and behavioral data collection.
 
 ## Presentations
-======
+
 <ul>{% for post in site.talks reversed %}
   {% include archive-single-talk-cv.html %}
 {% endfor %}</ul>
 
 ## Publications
-======
+
 <ul>{% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
 ## Skills
-======
+
 * Coding: Python, JavaScript (jsPsych), HTML/CSS, C++
 * Data Analysis: R, MATLAB, linear mixed-effects models, t-tests, ANOVAs, logistic regression
 * Neuroscientific Methods: EEG, fMRI, eye-tracking
@@ -62,7 +62,7 @@ redirect_from:
 * Writing: Grant writing, pre-registration, APA-style scientific writing
 
 ## Honors & Awards
-======
+
 * Morgan Award for Research Promise, UCSB (2025)  
 * NSF GRFP Honorable Mention (2025)  
 * Distinction in Major, PBS, UCSB (2024)  
@@ -72,7 +72,7 @@ redirect_from:
 * Best Poster Award, Psychology 120L, UCSB (2023)
 
 ## Service and Leadership
-======
+
 * Trained and supervised research assistants on multi-session EEG and behavioral studies  
 * Developed teamwork and multitasking skills through customer service (2020–present)  
 * Participated in undergraduate mentoring and research community support at UCSB
