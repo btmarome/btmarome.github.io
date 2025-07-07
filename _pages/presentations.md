@@ -5,7 +5,7 @@ permalink: /presentations/
 author_profile: true
 ---
 
-<div style="text-align: center;">
+<div>
   <p style="font-size: 0.95em; color: #cccccc; margin-top: 0.5em;">
     <em>Note:</em> Some poster PDFs are available. Click <u>Poster</u> to view.
   </p>
