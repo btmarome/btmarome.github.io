@@ -16,7 +16,7 @@ redirect_from:
 
 * **B.S., Psychological and Brain Sciences**, University of California, Santa Barbara — *2021–2024*  
   Minor: Philosophy  
-  GPA: 3.88  
+  Distinction in Major  
 
 ## Research Experience
 
