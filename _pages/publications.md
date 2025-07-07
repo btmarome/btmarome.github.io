@@ -19,7 +19,11 @@ Shelat, S., **Marome, B.**, Lopez, C., Giesbrecht, B., & Schooler, J. W. (Manusc
 
 <br>
 
-\* *Indicates authors contributed equally as first authors.*
+<div>
+  <p style="font-size: 0.95em; color: #cccccc; margin-top: 0.5em;">
+    <em>* Indicates authors contributed equally as first authors.</em>
+  </p>
+</div>
 
 
 
