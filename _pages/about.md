@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![](/images/uc_logo.jpeg)
+![](/images/banner.png)
 
 Hi! Welcome to my personal website.
 
