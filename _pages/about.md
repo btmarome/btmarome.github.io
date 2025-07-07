@@ -1,5 +1,3 @@
-![](/images/uc_logo.jpeg)
-
 ---
 permalink: /
 title: "About me"
@@ -8,6 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+![](/images/uc_logo.jpeg)
 
 Hi! Welcome to my personal website.
 
