@@ -9,8 +9,6 @@ author_profile: true
 
 My work on visual attention and working memory at the University of Chicago will begin in Fall 2025. Below are selected projects I’ve contributed to as a research assistant at UCSB, ordered by most recent.
 
----
-
 ## Psychological & Brain Sciences Honors Program — UCSB  
 
 Evaluating ongoing thoughts during behavioral tasks can offer valuable insight into underlying cognitive processes. Yet, despite their ubiquity, dimensions of thought are often overlooked in experimental psychology, where researchers typically prioritize the assessment of task performance and neglect the accompanying mental experience.
@@ -24,8 +22,6 @@ In this study, we used experience sampling to investigate the phenomenology of t
   </p>
 </div>
 
----
-
 ## Memory, Emotion, Thought, and Awareness (META) Lab — UCSB  
 
 In the META Lab, we study how fluctuations in conscious experience influence cognitive performance. My work has focused on the role of mind-wandering and internal distraction during memory encoding, particularly in relation to stimulus memorability. Using experience sampling, behavioral experiments, and recognition testing, we aim to understand how internal cognitive states interact with perceptual properties of stimuli to shape long-term memory outcomes. This research sits at the intersection of meta-awareness, attention, and memory.
@@ -37,8 +33,6 @@ In the META Lab, we study how fluctuations in conscious experience influence cog
   </p>
 </div>
 
----
-
 ## Perception, Cognition, and Action (PCA) Lab — UCSB  
 
 Research in the PCA Lab centers on spatial working memory and the neural mechanisms supporting uncertainty representation. I’ve contributed to a series of studies exploring how people encode, maintain, and report imprecise memories for visual locations. These studies incorporate eye-tracking, EEG, and psychophysical methods to investigate moment-to-moment fluctuations in confidence and memory precision. I contributed to multiple projects aimed to understand how visual uncertainty is represented and used when people make decisions about what they remember.
@@ -49,8 +43,6 @@ Research in the PCA Lab centers on spatial working memory and the neural mechani
     Example task design from <a href="/files/Li_and_Sprague_2023.pdf">Li and Sprague (2023)</a>.
   </p>
 </div>
-
----
 
 ## Attention Lab — UCSB  
 
