@@ -31,7 +31,7 @@ redirect_from:
 
 ## Presentations
 
-See [presentations]([/presentations/)
+See [presentations](/presentations/)
 
 ## Publications
 
