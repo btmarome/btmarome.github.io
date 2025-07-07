@@ -19,7 +19,7 @@ In this study, we used experience sampling to investigate the phenomenology of t
 
 <div style="text-align: center;">
   <img src="/images/Thesis_plot.png" alt="Thesis flowchart" style="height: 250px; object-fit: cover; border-radius: 6px;" />
-  <p style="font-size: 0.95em; color: #555; margin-top: 0.5em;">
+  <p style="font-size: 0.95em; color: #e0e0e0; margin-top: 0.5em;">
     A procedure flowchart of the memory experiment. Participants first studied images and words with intermittent thought probes. Then, they completed a digit span task to prevent information maintenance strategies in working memory. Finally, participants underwent a recognition memory test including previously studied stimuli and intermixed foils.
   </p>
 </div>
@@ -32,7 +32,7 @@ In the META Lab, we study how fluctuations in conscious experience influence cog
 
 <div style="text-align: center;">
   <img src="/images/META_plot.png" alt="META experiment procedure" style="height: 250px; object-fit: cover; border-radius: 6px;" />
-  <p style="font-size: 0.95em; color: #555; margin-top: 0.5em;">
+  <p style="font-size: 0.95em; color: #e0e0e0; margin-top: 0.5em;">
     Phases of the procedure for Experiment 1 from a manuscript I contributed to. Participants completed a study phase where they encoded 24 complex visual scenes. Then, after a digit span distractor task, they completed a recognition memory test.
   </p>
 </div>
@@ -45,7 +45,7 @@ Research in the PCA Lab centers on spatial working memory and the neural mechani
 
 <div style="text-align: center;">
   <img src="/images/PCA_plot.jpeg" alt="PCA task design" style="height: 250px; object-fit: cover; border-radius: 6px;" />
-  <p style="font-size: 0.95em; color: #555; margin-top: 0.5em;">
+  <p style="font-size: 0.95em; color: #e0e0e0; margin-top: 0.5em;">
     Example task design from <a href="/files/Li_and_Sprague_2023.pdf">Li and Sprague (2023)</a>.
   </p>
 </div>
@@ -58,7 +58,7 @@ The Attention Lab focuses on the dynamics of value-driven attentional capture an
 
 <div style="text-align: center;">
   <img src="/images/Attention_plot.png" alt="Attention lab data" style="height: 250px; object-fit: cover; border-radius: 6px;" />
-  <p style="font-size: 0.95em; color: #555; margin-top: 0.5em;">
-    Example plot from <a href="/files/2023_Milner_EtAl.pdf">Milner et al. (2022)</a>.
+  <p style="font-size: 0.95em; color: #e0e0e0; margin-top: 0.5em;">
+    Example plot from <a href="/files/2023_Milner_EtAl.pdf">Milner et al. (2023)</a>.
   </p>
 </div>
