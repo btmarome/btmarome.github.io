@@ -27,7 +27,7 @@ In the META Lab, we study how fluctuations in conscious experience influence cog
 
 Research in the PCA Lab centers on spatial working memory and the neural mechanisms supporting uncertainty representation. I’ve contributed to a series of studies exploring how people encode, maintain, and report imprecise memories for visual locations. These studies incorporate eye-tracking, EEG, and psychophysical methods to investigate moment-to-moment fluctuations in confidence and memory precision. I contributed to multiple projects aimed to understand how visual uncertainty is represented and used when people make decisions about what they remember.
 
-![Experiment flowchart](/images/PCA_plot.png)
+![Experiment flowchart](/images/PCA_plot.jpeg)
 *Example task design from [Li and Sprague (2023).](/files/Li_and_Sprague_2023.pdf)*
 
 ## Attention Lab — UCSB  
