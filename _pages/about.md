@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![](/images/banner.png)
+![Banner showing UCSB and UChicago campus](/images/banner.jpg)
 
 Hi! Welcome to my personal website.
 
