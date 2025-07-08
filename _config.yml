@@ -39,7 +39,7 @@ author:
   orcid            : "https://orcid.org/0009-0009-0186-6854"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : "https://www.researchgate.net/profile/Brecken-Marome"
+  researchgate     : # "https://www.researchgate.net/profile/Brecken-Marome"
   scopus           : # URL
 
   # Repositories and software development
