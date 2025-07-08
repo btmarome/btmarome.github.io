@@ -9,7 +9,7 @@ author_profile: true
 
 My work on visual attention and working memory at the University of Chicago will begin in Fall 2025. Below are selected projects I’ve contributed to as a research assistant at UCSB, ordered by most recent.
 
-## Psychological & Brain Sciences Honors Program — UCSB  
+## Psychological and Brain Sciences Honors Program — UCSB  
 
 Evaluating ongoing thoughts during behavioral tasks can offer valuable insight into underlying cognitive processes. Yet, despite their ubiquity, dimensions of thought are often overlooked in experimental psychology, where researchers typically prioritize the assessment of task performance and neglect the accompanying mental experience.
 
