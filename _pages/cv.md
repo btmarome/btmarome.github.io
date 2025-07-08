@@ -11,22 +11,22 @@ redirect_from:
 
 ## Education
 
-* **Ph.D., Psychology**, University of Chicago — *Expected 2030*  
+* **Ph.D., Psychology**, University of Chicago | *Expected 2030*  
   Focus: Computational Cognitive Neuroscience
 
-* **B.S., Psychological and Brain Sciences**, University of California, Santa Barbara — *2021–2024*  
+* **B.S., Psychological and Brain Sciences**, University of California, Santa Barbara | *2021 – 2024*  
   Minor: Philosophy  
   Distinction in Major  
 
 ## Research Experience
 
-* **Research Assistant**, Memory, Emotion, Thought, and Awareness (META) Lab, UCSB — *Jun. 2023–Dec. 2024*  
+* **Research Assistant**, Memory, Emotion, Thought, and Awareness (META) Lab, UCSB | *Jun. 2023 – Present*  
   Mentors: Dr. Jonathan W. Schooler and Shivang Shelat
 
-* **Research Assistant**, Perception, Cognition, and Action (PCA) Lab, UCSB — *Jan. 2024–Jun. 2025*  
+* **Research Assistant**, Perception, Cognition, and Action (PCA) Lab, UCSB | *Jan. 2024 – Jun. 2025*  
   Mentors: Dr. Tommy Sprague and Alison Li
 
-* **Research Assistant**, Attention Lab, UCSB — *Jun. 2023–Dec. 2024*  
+* **Research Assistant**, Attention Lab, UCSB | *Jun. 2023 – Dec. 2024*  
   Mentors: Dr. Barry Giesbrecht, Dr. Anne Milner, and Shivang Shelat
 
 ## Presentations
