@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 
-* **Ph.D., Psychology**, University of Chicago | *Expected 2030*  
+* **Ph.D., Psychology**, The University of Chicago | *Expected 2030*  
   Focus: Computational Cognitive Neuroscience
 
 * **B.S., Psychological and Brain Sciences**, University of California, Santa Barbara | *2021 – 2024*  
