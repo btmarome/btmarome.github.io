@@ -13,7 +13,7 @@ author_profile: true
 
 ## Journal Articles
 
-**Marome, B.***, Shelat, S.*, & Schooler, J. W. (Manuscript submitted). The phenomenology of encoding: Experience sampling reveals thoughts associated with the retention of visual and verbal materials.
+**Marome, B.**\*, Shelat, S.\*, & Schooler, J. W. (Manuscript submitted). The phenomenology of encoding: Experience sampling reveals thoughts associated with the retention of visual and verbal materials.
 
 Shelat, S., **Marome, B.**, Lopez, C., Giesbrecht, B., & Schooler, J. W. (Manuscript submitted). The veil of distraction: Mind-wandering and memorability jointly shape visual recognition and recall.
 
