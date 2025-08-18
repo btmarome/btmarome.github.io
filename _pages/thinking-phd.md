@@ -1,5 +1,5 @@
 --- 
-layout: 
+layout: single
 single title: "Thinking PhD?" 
 permalink: /thinking-phd/ 
 author_profile: true 
