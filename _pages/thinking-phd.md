@@ -8,7 +8,7 @@ author_profile: true
 **Thinking about a PhD? You're not alone.**
 
 <p>
-    Download my <a href="/files/phd_guide.pdf.pdf">PhD Application Guide (PDF)</a>.
+    Download my <a href="/files/phd_guide.pdf">PhD Application Guide (PDF)</a>.
 </p>
 
 The creation of this website, along with my advice document to prospective PhD students, was heavily inspired by resources found on [Emma Megla](https://www.emmamegla.com/home)'s website.
