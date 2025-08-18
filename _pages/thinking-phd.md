@@ -25,6 +25,7 @@ author_profile: true
   </object>
 </div>
 
+<br><br>
 
 The creation of this website, along with my advice document to prospective PhD students, was heavily inspired by resources found on [Emma Megla](https://www.emmamegla.com/home)'s website. 
 
