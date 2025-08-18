@@ -17,13 +17,14 @@ author_profile: true
     data="{{ '/files/phd_guide.pdf' | relative_url }}"
     type="application/pdf"
     width="100%"
-    height="400">
+    height="150">
     <p>
       Your browser can’t display embedded PDFs. You can
       <a href="{{ '/files/phd_guide.pdf' | relative_url }}" target="_blank" rel="noopener">open the PDF in a new tab</a>.
     </p>
   </object>
 </div>
+
 
 The creation of this website, along with my advice document to prospective PhD students, was heavily inspired by resources found on [Emma Megla](https://www.emmamegla.com/home)'s website. 
 
