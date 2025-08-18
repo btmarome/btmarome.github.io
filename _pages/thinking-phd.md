@@ -17,7 +17,7 @@ author_profile: true
     data="{{ '/files/phd_guide.pdf' | relative_url }}"
     type="application/pdf"
     width="100%"
-    height="900">
+    height="400">
     <p>
       Your browser can’t display embedded PDFs. You can
       <a href="{{ '/files/phd_guide.pdf' | relative_url }}" target="_blank" rel="noopener">open the PDF in a new tab</a>.
