@@ -23,7 +23,7 @@ redirect_from:
 * **Doctoral Student**, Awh/Vogel Lab, UChicago | *Aug. 2025 – Present*  
   Mentors: Dr. Edward Awh and Dr. Edward Vogel
 
-* **Research Assistant**, Memory, Emotion, Thought, and Awareness (META) Lab, UCSB | *Jun. 2023 – Present*  
+* **Research Assistant**, Memory, Emotion, Thought, and Awareness (META) Lab, UCSB | *Jun. 2023 – Nov. 2025*  
   Mentors: Dr. Jonathan W. Schooler and Shivang Shelat
 
 * **Research Assistant**, Perception, Cognition, and Action (PCA) Lab, UCSB | *Jan. 2024 – Jun. 2025*  
