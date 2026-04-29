@@ -20,6 +20,9 @@ redirect_from:
 
 ## Research Experience
 
+* **Doctoral Student**, Awh/Vogel Lab, UChicago | *Aug. 2025 – Present*  
+  Mentors: Dr. Edward Awh and Dr. Edward Vogel
+
 * **Research Assistant**, Memory, Emotion, Thought, and Awareness (META) Lab, UCSB | *Jun. 2023 – Present*  
   Mentors: Dr. Jonathan W. Schooler and Shivang Shelat
 
@@ -49,9 +52,8 @@ See [Publications](/publications/)
 
 ## Skills
 
-* Programming: Python, JavaScript (jsPsych), HTML/CSS, C++
+* Programming: Python, JavaScript (jsPsych), HTML/CSS, C++, R, MATLAB, PsychoPy
 * Data collection: EEG (Brain Vision), fMRI, eye-tracking (EyeLink 1000 Plus), Qualtrics
-* Data Analysis: R, MATLAB
 * Writing: Grant writing, pre-registration
 
 ## Service and Leadership
