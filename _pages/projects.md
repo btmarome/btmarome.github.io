@@ -7,7 +7,15 @@ author_profile: true
 
 ## Overview
 
-My work on visual attention and working memory at the University of Chicago will begin in Fall 2025. Below are selected projects I’ve contributed to as a research assistant at UCSB, ordered by most recent.
+Below are selected projects I’ve contributed to as a doctoral student at UChicago and a research assistant at UCSB, ordered by most recent.
+
+## Attentional filtering/disengagement (upcoming VSS presentation)
+
+Maintaining goal-relevant information in working memory requires not only encoding items into storage, but actively filtering out what no longer belongs. Yet the neural dynamics governing how and when attention disengages from distractors remain poorly understood. Here, we use a combination of alpha-band inverted encoding models and probe-evoked ERP components to track the spatial deployment and timing of attentional disengagement in a working memory task. By dissociating sustained spatial attention signals from moment-to-moment sensory processing, this work sheds light on the mechanisms by which the mind protects working memory representations from interference.
+
+## Dissociating cognitive effort and memory load
+
+Working memory tasks vary in the number of items they require us to hold in mind, yet the subjective effort that accompanies this demand is rarely examined as a dimension of its own. Here, we use multivariate EEG decoding to separately characterize the neural signatures of memory load and perceived effort in a change detection task spanning dot cloud and conjunction stimuli. By training classifiers on set size and effort independently, this work asks whether the neural geometry of "how much am I holding" and "how hard am I trying" are dissociable, and what that distinction reveals about the cognitive architecture of working memory.
 
 ## Psychological and Brain Sciences Honors Program — UCSB  
 
